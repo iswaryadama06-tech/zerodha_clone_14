@@ -1,0 +1,94 @@
+```css
+/* Whole page */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* Header */
+header {
+    font-famil:Calibri, Gill Sans;
+    font-size: 90px;
+    font-weight: 1500;
+}
+
+header img {
+    width: 150px;
+}
+
+nav a {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    margin: 15px;
+}
+
+/* Main heading */
+#head1 {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    background-color: red;
+}
+
+/* Paragraphs */
+#p1, #p2, #p3, #p4 {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/* Buttons */
+button {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 10px 25px;
+}
+
+/* Tutorials */
+#tutotials iframe {
+    margin: 10px;
+}
+
+/* Registration form */
+form {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+form input {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 8px;
+}
+
+/* Registration heading */
+section h2 {
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+/* Table */
+table {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+th {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+td {
+    font-size: 16px;
+    font-weight: 400;
+    padding: 10px;
+}
+
